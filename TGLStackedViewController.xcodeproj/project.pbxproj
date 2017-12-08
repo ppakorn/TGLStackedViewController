@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9B493F361FDA944E0064698E /* TGLStackedViewController-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 9B493F341FDA944E0064698E /* TGLStackedViewController-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9B493F421FDA94F30064698E /* TGLStackedLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B493F3C1FDA94F30064698E /* TGLStackedLayout.m */; };
 		9B493F431FDA94F30064698E /* TGLStackedLayout.h in Headers */ = {isa = PBXBuildFile; fileRef = 9B493F3D1FDA94F30064698E /* TGLStackedLayout.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9B493F441FDA94F30064698E /* TGLExposedLayout.h in Headers */ = {isa = PBXBuildFile; fileRef = 9B493F3E1FDA94F30064698E /* TGLExposedLayout.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -18,7 +17,6 @@
 
 /* Begin PBXFileReference section */
 		9B493F311FDA944E0064698E /* TGLStackedViewController.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TGLStackedViewController.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		9B493F341FDA944E0064698E /* TGLStackedViewController-umbrella.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TGLStackedViewController-umbrella.h"; sourceTree = "<group>"; };
 		9B493F351FDA944E0064698E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9B493F3C1FDA94F30064698E /* TGLStackedLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TGLStackedLayout.m; sourceTree = "<group>"; };
 		9B493F3D1FDA94F30064698E /* TGLStackedLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TGLStackedLayout.h; sourceTree = "<group>"; };
@@ -64,7 +62,6 @@
 				9B493F3C1FDA94F30064698E /* TGLStackedLayout.m */,
 				9B493F3F1FDA94F30064698E /* TGLStackedViewController.h */,
 				9B493F401FDA94F30064698E /* TGLStackedViewController.m */,
-				9B493F341FDA944E0064698E /* TGLStackedViewController-umbrella.h */,
 				9B493F351FDA944E0064698E /* Info.plist */,
 			);
 			path = TGLStackedViewController;
@@ -80,7 +77,6 @@
 				9B493F431FDA94F30064698E /* TGLStackedLayout.h in Headers */,
 				9B493F451FDA94F30064698E /* TGLStackedViewController.h in Headers */,
 				9B493F441FDA94F30064698E /* TGLExposedLayout.h in Headers */,
-				9B493F361FDA944E0064698E /* TGLStackedViewController-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
